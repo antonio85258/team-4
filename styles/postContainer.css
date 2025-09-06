@@ -1,0 +1,71 @@
+.main {
+width: 375px;
+height: 812px;
+opacity: 1px;
+
+}
+.header {
+width: 334;
+height: 35;
+padding-top: 44px;
+padding-left: 21px;
+opacity: 1px;
+}
+.hr {
+width: 375;
+height: 0px;
+top: 189px;
+opacity: 1;
+border-width: 1px;
+border: 1px solid #E0E0E0
+}
+.inst {
+font-size: 20px;
+}
+
+.header2 {
+    text-align: center;
+}
+.headerimg {
+text-align: right;
+word-spacing: 15px;
+}
+.marvel {
+font-weight: 500;
+font-style: Medium;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.header2 {
+    word-spacing: 49px;
+}
+.loki {
+width: 375px;
+height: 375px;
+top: 246px;
+opacity: 1;
+}
+.thec {
+font-family: Roboto;
+font-weight: 500px;
+font-style: Medium;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.text1 {
+    font-family: Roboto;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    
+}
+.img4 {
+   
+    padding-left: 328px;
+}
+
